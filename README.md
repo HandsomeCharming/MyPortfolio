@@ -11,6 +11,7 @@ University of Southern California, Fall 2016
 Built stationary and moving enemies with chase and shoot AI and various moves.
 Implemented a curved wall generator that generate curved wall mesh based with sample points and tangent data.
 Video link: https://drive.google.com/file/d/0B8qrC36k0zI2VXJyaGRlOGVfSkU/view?usp=sharing
+
 As shown in the video, all curved walls all generated with my wall generator. The wall take in a few sample points with tangent data to interpolate and generate a curved wall mesh. 
 Vertex buffer, index buffer, normals, and uv(texture coordinate) buffer were all generated.
 
